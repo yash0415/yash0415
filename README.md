@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yash0415
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science
+- 👀 I’m interested in Security and DevOps
+- 🌱 I’m done my PG-Diploma in Security and DevOps
+- 💞️ I’m looking to collaborate on DevOps and Security
 - 📫 How to reach me Linkedin i'd- https://www.linkedin.com/in/yashwankar-b2a48b1a7/
 
 <!---
